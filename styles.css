@@ -1,0 +1,24 @@
+body,
+html {
+    height: 100%;
+    max-height: 100%;
+    min-height: 100%;
+    background-color: #eee;
+}
+
+.display-table {
+    display: table;
+}
+
+.display-table-cell {
+    display: table-cell;
+}
+
+.align-middle {
+    vertical-align: middle;
+}
+
+.fill-parent {
+    height: 100%;
+    width: 100%;
+}
